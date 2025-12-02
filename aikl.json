@@ -1,9 +1,9 @@
 {
-  "version_code": 2,
-  "version_name": "2.0.0",
-  "update_message": "• إصلاح جميع الأخطاء\n• تحسين الأداء\n• ميزات جديدة\n• واجهة محسنة",
+  "version_code": 3,
+  "version_name": "3.0.0",
+  "update_message": "• إصلاح جميع الأخطاء\n• حل بعض مشاكل\n• سلاسه فل\n• دعم اصدار 16",
   "force_update": true,
-  "apk_url": "https://github.com/yttl39172-sketch/msmsms/raw/main/NEROX%20LOADER%20V8.APK",
+  "apk_url": "https://github.com/yttl39172-sketch/msmsms/raw/main/app-debug.apk",
   "release_date": "2024-01-20",
   "min_android_version": 21
 }
